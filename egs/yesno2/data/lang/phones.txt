@@ -1,0 +1,16 @@
+<eps> 0
+SIL 1
+SIL_B 2
+SIL_E 3
+SIL_I 4
+SIL_S 5
+Y_B 6
+Y_E 7
+Y_I 8
+Y_S 9
+N_B 10
+N_E 11
+N_I 12
+N_S 13
+#0 14
+#1 15

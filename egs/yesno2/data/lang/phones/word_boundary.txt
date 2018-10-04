@@ -1,0 +1,13 @@
+SIL nonword
+SIL_B begin
+SIL_E end
+SIL_I internal
+SIL_S singleton
+Y_B begin
+Y_E end
+Y_I internal
+Y_S singleton
+N_B begin
+N_E end
+N_I internal
+N_S singleton

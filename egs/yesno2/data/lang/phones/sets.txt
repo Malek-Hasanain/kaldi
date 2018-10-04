@@ -1,0 +1,3 @@
+SIL SIL_B SIL_E SIL_I SIL_S
+Y_B Y_E Y_I Y_S
+N_B N_E N_I N_S
